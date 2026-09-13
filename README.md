@@ -72,7 +72,11 @@ Developed by **Gabriel Menezes**.
 
 Educational project developed as part of the Technical Course in Systems Development.
 
+Menu Close
 <img width="362" height="135" alt="image" src="https://github.com/user-attachments/assets/1960d41c-e6fe-46fa-b750-ddbc5c0918a0" />
+Menu Open
 <img width="549" height="368" alt="image" src="https://github.com/user-attachments/assets/dafe7a7e-6d48-4f36-8636-d8cbed80c4fe" />
+Form
 <img width="549" height="355" alt="image" src="https://github.com/user-attachments/assets/20b3c1f8-aadf-42ef-a415-9223eaf131da" />
+Receipt / Exit
 <img width="224" height="445" alt="image" src="https://github.com/user-attachments/assets/fb83167a-5a4c-4456-80d7-ff7fc6a4c6bf" />
